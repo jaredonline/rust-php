@@ -23,5 +23,5 @@ $ PATH/TO/YOUR/DEBUG/ENABLED/PHP/php src/rust_a_star.php
 
 # Other helpful links
 
-[Valgrind Output](https://gist.github.com/jaredonline/e1317b4fe95db20b9dba)
-[cpp Output](https://gist.github.com/jaredonline/f17f95e1a4705d8d14ed)
+ - [Valgrind Output](https://gist.github.com/jaredonline/e1317b4fe95db20b9dba)
+ - [cpp Output](https://gist.github.com/jaredonline/f17f95e1a4705d8d14ed)
